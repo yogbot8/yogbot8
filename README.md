@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @yogbot8
-- 👀 I’m interested in Quantum COmputational FLuid Dynamics
+- 👋 Hi, I’m Yogesh Kumar
+- 👀 I’m interested in Quantum Computational FLuid Dynamics
 - 🌱 I’m currently learning QISKIT and Python
 - 💞️ I’m looking to collaborate on QCFD
 - 📫 How to reach me: mail to: yogbot8@gmail.com
